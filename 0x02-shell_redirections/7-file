@@ -1,2 +1,3 @@
 #!/bin/bash
-grep owerd_config
+
+echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:
